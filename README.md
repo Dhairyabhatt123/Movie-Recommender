@@ -27,7 +27,7 @@ This is a **content-based movie recommender system** built using Machine Learnin
 
 ## 📁 Dataset
 
-- Used a movie dataset from [Kaggle](https://www.kaggle.com/datasets).
+- Used a movie dataset from [Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)).
 - Contains movie titles, genres, keywords, cast, crew, and more.
 - Combined selected features into a single "tags" column for recommendation.
 
